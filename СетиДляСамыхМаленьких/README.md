@@ -11,5 +11,7 @@
   * [IEEE 802.1Q (Port-based VLAN)](0_ПланированиеИОсновы/IEEE802.1Q.md)
 
 * [Часть 1. Подключение к оборудованию Cisco. Основы консоли. Настройка Telnet, SSH](1_ПодключениеКОборудованиюCisco/1_ПодключениеКОборудованиюCisco.md)
-  * [Ethernet-кабеля]()
-  * [Privilege Level]()
+  * [Советы для консоли](1_ПодключениеКОборудованиюCisco/ConsoleTips.md)
+  * [Настройка TELNET и SSH](1_ПодключениеКОборудованиюCisco/TelnetAndSSH.md)
+  * [Ethernet-кабеля](1_ПодключениеКОборудованиюCisco/EthernetCables.md)
+  * [Уровни привилегий](1_ПодключениеКОборудованиюCisco/PrivilegeLevels.md)
